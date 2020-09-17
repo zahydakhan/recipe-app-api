@@ -1,5 +1,4 @@
 FROM python:3.7-alpine
-MAINTAINER Zahida Khan
 
 ENV PYTHONBUFFERED 1
 
